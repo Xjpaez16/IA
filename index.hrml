@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historia de la Inteligencia Artificial</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>La Historia de la Inteligencia Artificial</h1>
+        <p>Explora el fascinante viaje de la IA a través de las décadas</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#1950s">Los Comienzos</a></li>
+            <li><a href="#1960s">El Verano de la IA</a></li>
+            <li><a href="#1970s">Los Inviernos de la IA</a></li>
+            <li><a href="#2000s">Renacimiento</a></li>
+        </ul>
+    </nav>
+
+    <section id="content">
+        <article id="1950s">
+            <h2>Los Comienzos (1950s)</h2>
+            <img src="https://via.placeholder.com/400x200" alt="Los Comienzos de la IA">
+            <p>La IA como campo de estudio se formalizó en 1956 en la conferencia de Dartmouth. Este período fue marcado por el desarrollo de los primeros algoritmos y programas.</p>
+        </article>
+        
+        <article id="1960s">
+            <h2>El Verano de la IA (1960s)</h2>
+            <img src="https://via.placeholder.com/400x200" alt="El Verano de la IA">
+            <p>Un período de gran entusiasmo y avances significativos. Se desarrollaron sistemas expertos y se realizaron importantes investigaciones en el campo de la IA.</p>
+        </article>
+        
+        <article id="1970s">
+            <h2>Los Inviernos de la IA (1970s-1990s)</h2>
+            <img src="https://via.placeholder.com/400x200" alt="Los Inviernos de la IA">
+            <p>La IA enfrentó dificultades y críticas, lo que llevó a periodos de desilusión y recortes de financiamiento.</p>
+        </article>
+        
+        <article id="2000s">
+            <h2>Renacimiento (2000s-presente)</h2>
+            <img src="https://via.placeholder.com/400x200" alt="Renacimiento de la IA">
+            <p>El resurgimiento de la IA con el aprendizaje profundo y el big data. Hoy en día, la IA es parte integral de muchas tecnologías modernas.</p>
+        </article>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Historia de la IA. Todos los derechos reservados.</p>
+    </footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>
+
